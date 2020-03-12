@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/speedy-job.iml" filepath="$PROJECT_DIR$/speedy-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/speedy-job-core/speedy-job-core.iml" filepath="$PROJECT_DIR$/speedy-job-core/speedy-job-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/speedy-job-sample/speedy-job-sample.iml" filepath="$PROJECT_DIR$/speedy-job-sample/speedy-job-sample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/speedy-job-sdk/speedy-job-sdk.iml" filepath="$PROJECT_DIR$/speedy-job-sdk/speedy-job-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/speedy-job-server/speedy-job-server.iml" filepath="$PROJECT_DIR$/speedy-job-server/speedy-job-server.iml" />
+    </modules>
+  </component>
+</project>
